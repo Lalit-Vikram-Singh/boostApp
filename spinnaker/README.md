@@ -6,11 +6,11 @@ Pipeline file contains a JSON, change 'PLACEHOLDER' string with an appropriate v
 
 example
 
-"account": "PLACEHOLDER"   --    "account": "my-k8s-account"
-"account": "PLACEHOLDER"   --    "account": "opsmx-docker-registry"
-"imageId": "PLACEHOLDER"   --    "imageId": "index.docker.io/opsmx11/restapp:boostapp"
-"registry": "PLACEHOLDER"  --    "registry": "index.docker.io"
-"tag": "PLACEHOLDER"       --    "tag": "boostapp"
-"name": "PLACEHOLDER"      --    "name": "opsmx11-restapp"
-"job": "PLACEHOLDER"       --    "job": "restApp_withdatadog"
-"master": "PLACEHOLDER"    --    "master": "my-jenkins-master"
+1. "account": "PLACEHOLDER"   --    "account": "my-k8s-account"
+2. "account": "PLACEHOLDER"   --    "account": "opsmx-docker-registry"
+3. "imageId": "PLACEHOLDER"   --    "imageId": "index.docker.io/opsmx11/restapp:boostapp"
+4. "registry": "PLACEHOLDER"  --    "registry": "index.docker.io"
+5. "tag": "PLACEHOLDER"       --    "tag": "boostapp"
+6. "name": "PLACEHOLDER"      --    "name": "opsmx11-restapp"
+7. "job": "PLACEHOLDER"       --    "job": "restApp_withdatadog"
+8. "master": "PLACEHOLDER"    --    "master": "my-jenkins-master"
